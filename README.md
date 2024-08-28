@@ -11,10 +11,10 @@ This repository contains the code and data for studying linguistic differences b
 Data folder has 1000 sample sub-datasets I extracted from this dataset: https://huggingface.co/datasets/symanto/autextification2023 
 
 ### Repository Structure
-GPT_classification -  code used to classify the data using GPT-3.5-Turbo. 
-GPT_dataset_selection - code for creating GPT-3.5-Turbo dataset (1000 samples, various text lengths, and 3 domains). 
-GPT_prompt_selection - testing different prompts with GPT-3.5-Turbo on 20 sample test dataset.  
-Classification_BLOOM - code used to classify the data using BLOOM models. 
+GPT_classification -  code used to classify the data using GPT-3.5-Turbo. <br>
+GPT_dataset_selection - code for creating GPT-3.5-Turbo dataset (1000 samples, various text lengths, and 3 domains). <br>
+GPT_prompt_selection - testing different prompts with GPT-3.5-Turbo on 20 sample test dataset.  <br>
+Classification_BLOOM - code used to classify the data using BLOOM models. <br>
 
 ### Implementation Details
 The practical tasks were conducted using Google Colab Pro with Jupyter Notebooks, utilizing the Python programming language. Colab Pro was chosen due to its higher RAM capacity and longer runtime, necessary for handling the computational demands of the tasks. The following Python libraries were used:
